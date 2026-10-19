@@ -11,7 +11,7 @@ Kandidat og certificeringsansvarlig: Peter Lugha. Certifikat: FUN-JUL-2026-001. 
 
 ## GitHub Pages
 
-Publicér repository `funebra/julemandscertifikat` med Pages fra `main`-branchens root. Den normale projektadresse vil være `https://funebra.github.io/julemandscertifikat/`. Adressen er ikke bekræftet aktiv ved udarbejdelse.
+**LIVE — bekræftet af projektejeren den 19. oktober 2026.** Projektside: https://funebra.github.io/julemandscertifikat/ . Begge PDF-links er meldt fungerende af projektejeren. Uafhængig ekstern webkontrol kunne ikke gennemføres.
 
 ## Beviskæde
 
