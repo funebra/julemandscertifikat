@@ -10,5 +10,11 @@
   "practical_test_verified": false,
   "independent_assessment_completed": false,
   "certified": false,
-  "next_gate": "JUL-2026-G2"
+  "next_gate": "JUL-2026-G2",
+  "publication_status": "LIVE",
+  "publication_url": "https://funebra.github.io/julemandscertifikat/",
+  "live_reported_by": "project_owner",
+  "live_reported_on": "2026-10-19",
+  "pdf_links_reported_working": true,
+  "independent_live_check": "unavailable"
 }
